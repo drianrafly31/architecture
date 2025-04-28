@@ -30,6 +30,7 @@ Diagram ini dirancang untuk memberikan gambaran yang lebih jelas mengenai perbed
 ## Cara Penggunaan
 Diagram ini dapat digunakan untuk memahami struktur dasar dari kedua arsitektur dan bagaimana mereka mengelola memori dan prosesor dalam sebuah sistem komputer. Anda dapat memodifikasi diagram ini menggunakan alat seperti **draw.io** untuk menyesuaikan dengan kebutuhan desain lebih lanjut atau menambahkan komponen lainnya.
 
-##Diagram
+
+## Diagram
 
 ![image](https://github.com/user-attachments/assets/607f9b8e-8a47-4b3b-9d1c-a181dc5482a1)
